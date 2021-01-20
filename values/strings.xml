@@ -4,14 +4,14 @@
     <string name="no_active_sessions">Aucune nouvelle session musicale n\'a encore commencé!\n
         Si vous avez besoin d\'aide, veuillez appuyer sur le menu 3-points</string>
     <string name="single_user_warning">Veuillez installer cette application en tant qu\'utilisateur système</string>
-    <string name="warning_library_null">Wavelet n\'a pas pu instancier %s effets</string>
+    <string name="warning_library_null">Wavelet n\'a pas pu instancier les effets %s</string>
     <string name="warning_no_browser">Impossible d\'ouvrir l\'url %s</string>
     <string name="warning_billing_service">Erreur %d: Service de facturation indisponible</string>
     <string name="paid_feature">Déverrouillez toutes les fonctionnalités pour %s</string>
     <string name="unlock">Déverrouillé</string>
 
     <!-- Menu -->
-    <string name="menu_legacy_mode">Mode Global</string>
+    <string name="menu_legacy_mode">Mode Legacy</string>
     <string name="menu_help">Aide</string>
     <string name="menu_reduce_clipping">Réduire l\'écrêtage</string>
     <string name="clipping_over_latency">L\'écrêtage est préférable à la latence</string>
@@ -38,7 +38,7 @@
     <string name="auto_eq_title">AutoEq</string>
     <string name="auto_eq_dialog_title">Modèle de casque</string>
     <string name="auto_eq_import">Importer</string>
-    <string name="auto_eq_file_import_success">Importation réussie %s</string>
+    <string name="auto_eq_file_import_success">Importation %s réussie</string>
     <string name="auto_eq_file_import_fail">Echec de l\'importation %s</string>
     <string name="auto_eq_remove_item">Retirer l\'objet</string>
     <string name="graphic_eq_title">Egaliseur graphique</string>

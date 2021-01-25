@@ -20,7 +20,7 @@
     <!-- Foreground Service notification -->
     <string name="service_channel_id">Service Wavelet</string>
     <string name="service_description">Service Wavelet pour améliorer votre expérience audio</string>
-    <string name="service_notification_title">%s connecté</string>
+    <string name="service_notification_title">%s -connecté-</string>
     <string name="service_notification_text">Applications utilisant Wavelet: %s</string>
     <string name="service_notification_text_default">Appuyez pour plus d\'options</string>
 

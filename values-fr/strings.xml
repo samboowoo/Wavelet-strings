@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Wavelet</string>
-    <string name="no_active_sessions">Aucune nouvelle session musicale n\'a encore commencé!\n
+    <string name="no_active_sessions">Aucune nouvelle session musicale n\'a encore commencé !\n
         Si vous avez besoin d\'aide, veuillez appuyer sur le menu 3-points</string>
     <string name="single_user_warning">Veuillez installer cette application en tant qu\'utilisateur système</string>
     <string name="warning_library_null">Wavelet n\'a pas pu instancier les effets %s</string>
@@ -21,7 +21,7 @@
     <string name="service_channel_id">Service Wavelet</string>
     <string name="service_description">Service Wavelet pour améliorer votre expérience audio</string>
     <string name="service_notification_title">%s -Connecté-</string>
-    <string name="service_notification_text">Applications utilisant Wavelet: %s</string>
+    <string name="service_notification_text">Applications utilisant Wavelet : %s</string>
     <string name="service_notification_text_default">Appuyez pour plus d\'options</string>
 
     <string name="device_unknown">Inconnu</string>

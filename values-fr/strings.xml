@@ -34,7 +34,7 @@
 
     <string name="device_unknown">Inconnu</string>
     <string name="device_headphone">Casque audio</string>
-    <string name="device_headset">Ecouteurs</string>
+    <string name="device_headset">Écouteurs</string>
     <string name="device_speaker">Haut-parleurs</string>
     <string name="device_bluetooth">Bluetooth</string>
     <string name="device_hearing_aid">Aide auditive</string>
@@ -42,16 +42,16 @@
 
     <!-- Preference strings -->
     <string name="reset">Réinitialiser</string>
-    <string name="category_equalization">Egalisation</string>
+    <string name="category_equalization">Égalisation</string>
     <string name="auto_eq_title">AutoEq</string>
     <string name="auto_eq_dialog_title">Modèle de casque</string>
     <string name="auto_eq_strength">Force de AutoEq</string>
     <string name="auto_eq_import">Importer</string>
     <string name="auto_eq_file_import_success">Importation %s réussie</string>
-    <string name="auto_eq_file_import_fail">Echec de l\'importation %s</string>
+    <string name="auto_eq_file_import_fail">Échec de l\'importation %s</string>
     <string name="auto_eq_remove_item">Retirer l\'élément</string>
-    <string name="graphic_eq_title">Egaliseur graphique</string>
-    <string name="graphic_eq_dialog_title">Ecraser le préréglage personnel</string>
+    <string name="graphic_eq_title">Égaliseur graphique</string>
+    <string name="graphic_eq_dialog_title">Écraser le préréglage personnel</string>
     <string name="graphic_eq_presets">Préréglages</string>
 
     <string name="category_effects">Effets</string>
